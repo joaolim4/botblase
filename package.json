@@ -1,0 +1,23 @@
+{
+  "name": "botblaze",
+  "version": "1.0.0",
+  "description": "Bot para o double da blaze",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "excel4node": "^1.8.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.2.4",
+    "puppeteer": "^20.0.0",
+    "readline": "^1.3.0",
+    "telegraf": "^4.12.2"
+  }
+}
